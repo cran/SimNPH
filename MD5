@@ -1,7 +1,7 @@
-54a5d81d5baa4eb5ea9b6e7a3dcba5c6 *DESCRIPTION
+2140cd36d1077b18937033c4c10cfa07 *DESCRIPTION
 f7cf6f252b3bfd4c2ba7b6e82009b4c6 *NAMESPACE
-9f8c064bab416a87d828e8287bccd5e5 *NEWS.md
-eb58bf712480c8253f8714d15c1a5aa1 *R/SimNPH-package.R
+b64c3655082dd228503019156967291d *NEWS.md
+26b59cb4c55d7c831ab9c923a2fe2fc8 *R/SimNPH-package.R
 c04c31d5e441abf5bddf18ae08ca304d *R/analyse.R
 955584455230372724addfc1a5a2666e *R/analyse_aft.R
 ef5db65ba8060853b6766e49998182db *R/analyse_ahr.R
@@ -32,10 +32,10 @@ eda33923a360ad9478597e9e48db2f9d *R/internal_real_statistics.R
 c1ef8412e89ce70af0338a8b01be07a5 *R/merge_additional_sims.R
 007939d12671054782e32e74da71700a *R/pch_functions_mixture.R
 b91a53797e8b8aef532cbcac22866993 *R/pch_functions_progression.R
-bf8da7954504fb6f7ea8628af8e187f5 *R/report_plots.R
+13ccc9159a480ddc5f21853acb67fd24 *R/report_plots.R
 fbad09b28f130facf0b3b80a0b1807cc *R/shhr_gg.R
 cc881889a85787e4f18089ec8802fc80 *R/summarise.R
-4cc45c82031c69d02ce4c6bc467d5a91 *README.md
+b73eed8afc3d4ea14a20ae1b92a0b9cb *README.md
 1e4b52c67102fb5de7557585925091e5 *build/vignette.rds
 0c6caa75479da502ba8a484ff64c5ed2 *data/combination_tests_delayed.rda
 ba5df23c2c548a94c5d0b1b168f04ef5 *inst/CITATION
@@ -73,7 +73,7 @@ a0fb9c6fae061ae5cd573a2f217bf9c5 *man/progression_cdf_fun.Rd
 0225ab8778a521b13987c78735d4168c *man/r2m.Rd
 0b2880a3901413786d2b3670bbab3bb1 *man/random_censoring_exp.Rd
 dfe7244bd9998ff06452787fdad7f67c *man/rename_results_column.Rd
-45144c43b896045f5c2b34719ed041b8 *man/results_pivot_longer.Rd
+524d06f9c578b41d9b8e1b77ac523496 *man/results_pivot_longer.Rd
 7a8f3b8d3e5ed616360eb1028f501c5f *man/shhr_gg.Rd
 1597e6e6b9610e28a8a1346713a9ef4c *man/summarise_estimator.Rd
 c3a794269c54b40911bfaf79e7951779 *man/summarise_test.Rd
@@ -110,6 +110,7 @@ e07a413fd8b3605326cdc281e4e07541 *tests/testthat/test-merge_additional_sims.R
 36038ba4d2f7a478411d9e276a380f6b *tests/testthat/test-report_plots.R
 9ca0ca9a696fc33e4cb8783f87978f4a *tests/testthat/test-shhr_gg.R
 17cc251654590f9e94e0feef9c590945 *tests/testthat/test-summarise.R
+bf92e1f15b36008a5997ef55482dc6f2 *vignettes/poster_SAfJR2023.pdf
 a019540be34aa34ba7164206e3307ad2 *vignettes/simple_example.html.asis
 03ce59e9753a360a838ce2fa37545635 *vignettes/vignettes_prebuild/build_vignettes.R
 eec55e004aee7e127be8217a924f96ab *vignettes/vignettes_prebuild/simple_example.Rmd

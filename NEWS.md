@@ -1,3 +1,11 @@
+# SimNPH 0.5.6
+
+* Fixed minor mistakes in documentation.
+* Added parameter to control x-axis expansion to `combined_plot`.
+* Updated tests to be compatible with upcoming release of ggplot2 3.6.0
+* Replaced the reference to the pre-print with the reference to the published 
+  paper in the description.
+
 # SimNPH 0.5.5
 
 * Sped up calculation of treatment arm hazard from effect size and calculation

@@ -1,6 +1,6 @@
-b372b636ebaf8b65b1202dc57314f028 *DESCRIPTION
+9cb92317310caa8ee5421c6a97538bb7 *DESCRIPTION
 f7cf6f252b3bfd4c2ba7b6e82009b4c6 *NAMESPACE
-9b288d85bc88ff92fee0bf4f99b018d4 *NEWS.md
+a9480b832a08a14df715795d57c79a62 *NEWS.md
 585f8b09df438eef307ff4ff71ecd6a8 *R/SimNPH-package.R
 c04c31d5e441abf5bddf18ae08ca304d *R/analyse.R
 955584455230372724addfc1a5a2666e *R/analyse_aft.R
@@ -37,10 +37,10 @@ cc881889a85787e4f18089ec8802fc80 *R/summarise.R
 bd41b48671e6cace2553c89324e1f462 *README.md
 32bf5074c9dd07a700361d8cd351c063 *build/vignette.rds
 0c6caa75479da502ba8a484ff64c5ed2 *data/combination_tests_delayed.rda
-ba5df23c2c548a94c5d0b1b168f04ef5 *inst/CITATION
+bea917f5f0bc054ba82124dbc19b699f *inst/CITATION
 0b51b857ce4a5a93f16ec2c76e61f164 *inst/doc/simple_example.Rmd
 7d959b0419c3f6cfb85d6cb4f4cfb7d4 *inst/doc/simple_example.html
-f7bd0167179c13bf0c251c5c63aaa554 *man/SimNPH.Rd
+b043a163be89f1d7b25ae424d5e399de *man/SimNPH.Rd
 6eeb512ac4b35c82b22065515ac302f7 *man/admin_censoring_time.Rd
 c82f5f5b5a2b3961df68665ca80f564a *man/analyse_aft.Rd
 573723e2e2ac8701a8db6024db5347cd *man/analyse_ahr.Rd
@@ -105,7 +105,7 @@ abe1abcb11d0f59a932aeb303adcb789 *tests/testthat/test-generate_subgroup.R
 fb185b58f7ede9d2ca12b1e9659fc873 *tests/testthat/test-internal_real_statistics.R
 8b5913d371668cfabba4977776104a1b *tests/testthat/test-merge_additional_sims.R
 48ab3579c4ee0f4149d0fb4455313604 *tests/testthat/test-pch_functions_mixture.R
-cbf4e3a6d0ab849b1f3bbb9e8146b731 *tests/testthat/test-report_plots.R
+aad9285e434cde16e9e078d3625bfd7b *tests/testthat/test-report_plots.R
 6727c012c71818e680371ef1ca5ccf30 *tests/testthat/test-shhr_gg.R
 75bbf70fb0bea78cb350142b013b76bb *tests/testthat/test-summarise.R
 03fbf5092c8a64ecb6996e027faf9d9a *vignettes/build_vignettes.R

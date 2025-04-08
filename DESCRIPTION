@@ -1,7 +1,7 @@
 Package: SimNPH
 Type: Package
 Title: Simulate Non-Proportional Hazards
-Version: 0.5.6
+Version: 0.5.7
 Authors@R: c(person("Tobias", "Fellinger", email="tobias.fellinger@ages.at", role=c("aut", "cre"), comment = c(ORCID = "0000-0001-9474-2731")),
             person("Florian", "Klinglmueller", role=c("aut"), comment = c(ORCID = "0000-0002-7346-3669")))
 License: BSL-1.0
@@ -31,9 +31,9 @@ URL: https://simnph.github.io/SimNPH/,
         https://github.com/SimNPH/SimNPH/
 BugReports: https://github.com/SimNPH/SimNPH/issues/
 NeedsCompilation: no
-Packaged: 2025-02-20 11:52:35 UTC; Tobias11
+Packaged: 2025-04-08 10:03:13 UTC; Tobias11
 Author: Tobias Fellinger [aut, cre] (<https://orcid.org/0000-0001-9474-2731>),
   Florian Klinglmueller [aut] (<https://orcid.org/0000-0002-7346-3669>)
 Maintainer: Tobias Fellinger <tobias.fellinger@ages.at>
 Repository: CRAN
-Date/Publication: 2025-02-20 12:20:10 UTC
+Date/Publication: 2025-04-08 10:30:02 UTC

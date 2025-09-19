@@ -1,3 +1,10 @@
+# SimNPH 0.5.8
+
+* Fixed tests: test plots with `vdiffr` to avoid using non-exported functions
+  of plotting libraries in test cases. Fixed tests to be more robust to changes
+  in upstream packages and workarounds for upstream bugs, updated test artifacts
+  after ggplot2 update.
+
 # SimNPH 0.5.7
 
 * Hotfix: disabled one test to avoid an error due to changes in an upcoming
